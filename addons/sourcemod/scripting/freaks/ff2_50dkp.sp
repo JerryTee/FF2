@@ -13,6 +13,8 @@ v1.0 (May 30, 2013 A.D.):  Re-created ff2_50dkp because it got deleted somewhere
 Current bosses that use this:  Fempyro, Gaben (soon), Psycho
 */
 
+// This is some cool shit. - Jerry
+
 #pragma semicolon 1
 
 #include <freak_fortress_2>
@@ -32,10 +34,10 @@ new bool:gabenBan=false;
 public Plugin:myinfo=
 {
 	name = "50DKP-FF2 Plugin",
-	author = "Wliu",
-	description = "A FF2 plugin for the 50DKP community",
+	author = "Wliu, Jerry",
+	description = "A FF2 plugin",
 	version = PLUGIN_VERSION,
-	url = "http://www.50dkp.com"
+	url = "steamcommunity.com/id/NooME"
 };
 
 public OnPluginStart2()
